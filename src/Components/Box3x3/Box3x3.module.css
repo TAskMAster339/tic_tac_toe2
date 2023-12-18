@@ -1,0 +1,11 @@
+.block3x1{
+    display: flex;
+}
+.outer {
+    border: solid 3px red;
+    margin: 10px 10px;
+}
+.startbox{
+    border: solid 3px rgb(0, 40, 255);
+    margin: 10px 10px;
+}

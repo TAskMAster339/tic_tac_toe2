@@ -1,0 +1,6 @@
+.Block{
+    border: solid 2px gold;
+    display: inline-block;
+    padding: 20px 20px;
+    margin: 4px 4px 0px 4px;
+}

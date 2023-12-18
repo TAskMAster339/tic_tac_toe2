@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#root {
+    display: flex;
+    justify-content: center;
+}
+.App {
+    width: auto;
+    position: relative;
+}
+#Five {
+    border: 3px solid rgb(0, 40, 255);
+}
+#winTable{
+    position: fixed;
+	top: 0;
+    font-weight: 900;
+    text-align: center;
+    color: whitesmoke;
+    line-height: 200%;
+    font-size: 150px;
+    display: none;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 100;
+}
+#restartButton{
+    display: block;
+    font-size: 75px;
+    margin: 100px auto;
+    font-weight: 900;
+    color: whitesmoke;
+    border-radius: 20px;
+    border: 0px;
+    line-height: 125%;
+    padding: 20px 20px;
+}
